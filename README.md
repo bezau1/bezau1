@@ -2,8 +2,8 @@
 
 bezau1@Github
 --------------------
-Hello: hi
-baasajoıkhaks: wıusw
+Website: Nubertislife.com
+YT: @bezau1
 
 
 [bezau1@Github ~]$
