@@ -1,20 +1,12 @@
-#[bezau1@Github ~]$ neofetch
-#
-#bezau1@Github
-#-------------------
-#OS: EndeavourOS x86_64
-#Kernel: Linux 6.12.66-1-lts
-#Uptime: 1 min
-#Packages: 2059 (pacman), 19 (flatpak)
-#Shell: bash 5.3.9
-#DE: KDE Plasma 6.5.5
-#WM: KWin (Wayland)
-#Terminal: konsole 25.12.1
-#CPU: 11th Gen Intel(R) Core(TM) i7-11370H (8) @ 4.80 GHz
-#GPU 1: NVIDIA GeForce RTX 3050 Ti Mobile [Discrete]
-#GPU 2: Intel Iris Xe Graphics @ 1.35 GHz [Integrated]
-#Memory: 4.89 GiB / 15.32 GiB (32%)
-#Disk (/): 432.77 GiB / 467.03 GiB (93%) - ext4
-#
-# 
-#[bezau1@Github ~]$ 
+struct Developer {
+    let name = ""
+    let role = ""
+    let focus = [""]
+    let email = ""
+}
+
+let pinnedProject = Project(
+    name: "",
+    description: "",
+    url: ""
+)    
