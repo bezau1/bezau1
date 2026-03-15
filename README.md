@@ -1,12 +1,12 @@
-struct Developer {
-    let name = ""
-    let role = ""
-    let focus = [""]
-    let email = ""
-}
+hello
 
-let pinnedProject = Project(
-    name: "",
-    description: "",
-    url: ""
-)    
+i
+
+
+f
+f
+f
+
+
+
+free
