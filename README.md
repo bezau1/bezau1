@@ -1,12 +1,1 @@
-hello
-
-i
-
-
-f
-f
-f
-
-
-
-free
+[bezau1@Github ~]$ neofetch
