@@ -26,7 +26,7 @@ Distro: arch btw
 </td>
 <td valign="top">
 
-<img src="https://raw.githubusercontent.com/bezau1/bezau1/main/mecropped.png" width="300">
+<img src="https://raw.githubusercontent.com/bezau1/bezau1/main/mewbg2.png" width="300">
 
 </td>
 </tr>
