@@ -24,9 +24,9 @@ Distro: arch btw
 </pre>
 
 </td>
-<td valign="top">
+<td valign="middle" align="center">
 
-<img src="https://raw.githubusercontent.com/bezau1/bezau1/main/mewbg2.png" width="300">
+<img src="https://raw.githubusercontent.com/bezau1/bezau1/main/mecropped.png" width="300">
 
 </td>
 </tr>
