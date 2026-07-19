@@ -18,7 +18,7 @@ User: <a href="https://github.com/bezau1">bezau1</a>
 ┌──────────────────────Software──────────────────────┐
 Distro: arch btw
 │ ├Kernel: Linux 7.0.9-arch2-1
-│ ├DE: Hyprland 0.55.2 (Wayland)
+│ ├DE: Hyprland 0.55.4 (Wayland)
 │ ├Terminal: alacritty 0.17.0
 │ ├Editor: <a href="https://neovim.io/">neovim</a>
 └ └Font: JetBrainsMonoNL Nerd Font (9pt, Regular)
