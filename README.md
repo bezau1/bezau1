@@ -1,7 +1,9 @@
 <table>
 <tr>
+<td valign="middle" align="center">
+<img src="https://raw.githubusercontent.com/bezau1/bezau1/main/megradient.png" width="300">
+</td>
 <td valign="top">
-
 <pre>
 ┌──────────────────────Profile──────────────────────┐
 User: <a href="https://github.com/bezau1">bezau1</a>
@@ -22,12 +24,6 @@ Distro: arch btw
 └ └Font: JetBrainsMonoNL Nerd Font (9pt, Regular)
 └────────────────────────────────────────────────────┘
 </pre>
-
-</td>
-<td valign="middle" align="center">
-
-<img src="https://raw.githubusercontent.com/bezau1/bezau1/main/megradient.png" width="300">
-
 </td>
 </tr>
 </table>
